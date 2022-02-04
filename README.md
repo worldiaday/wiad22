@@ -1,7 +1,8 @@
 # WIAD22
 The annual World IA Day for 2022 will be back on (and around) 5 March 2022. This repo will be used for the documentation for the planning committee
 
-![World IA Day: A Connected World online on March 5, 2022](https://user-images.githubusercontent.com/603924/135699457-57f93cd7-b829-4ceb-9c91-6b3ccfba5c60.png)
+![wiad22-1200x600 by Stephen Anderson](https://user-images.githubusercontent.com/603924/152609023-f9802497-09d3-469a-8269-8ac116c12cf8.png)
+
 
 
 ## About WIAD22
